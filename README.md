@@ -1,2 +1,2 @@
-# random_docs
-stuff I am working on
+# training_notes
+stuff I am learning about
